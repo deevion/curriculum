@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container00 {
+  min-height: 100vh;
+  background-color: #d0cdc9;
+}
+
+#accordionFlushExample {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
